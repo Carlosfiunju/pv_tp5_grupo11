@@ -5,3 +5,4 @@ Informacion del grupo
 
 1.Noel Chiliguay; Usuario: NoelChiliguay
 2.Aparicio Carlos; Usuario: Carlosfiunju
+3.Sivila Lucas; usuario: santtiago8
